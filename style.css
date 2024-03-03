@@ -1,0 +1,57 @@
+
+
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boyCont
+{
+    width: 80%;
+}
+
+.container input{
+    width: 40%;
+    background: black;
+    border: 1px solid grey;
+    color: #fff;
+    margin: 15px 10px;
+    padding: 10px;
+    border: 2px solid gray;
+    font-size: 16px;
+    outline: none;
+}
+.container button{
+    background: black;
+    color: #fff;
+    margin: 15px 10px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid gray;
+}
+
+.positive-change{
+    color: greenyellow;
+}
+.negative-change{
+    color: red;
+}
+td{
+    min-width: 130px;
+    padding: 10px;
+}
+#cryptoTable{
+    margin: auto;
+}
+
+.rowDiv
+{
+    border: 2px solid blue;
+}
